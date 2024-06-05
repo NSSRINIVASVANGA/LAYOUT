@@ -1,0 +1,15 @@
+.config-con {
+  background-color: #475569;
+  font-family: 'Roboto';
+  padding: 10px;
+  color: #ffffff;
+}
+
+.list-con{
+  list-style-type: none;
+  color:#f1f5f9;
+}
+
+.input-con{
+  margin-bottom: 10px;
+}
